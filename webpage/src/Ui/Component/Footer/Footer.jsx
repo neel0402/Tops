@@ -1,5 +1,5 @@
 import React from 'react'
-import { Home } from 'lucide-react'
+import { Copyright, Home } from 'lucide-react'
 import { BookA } from 'lucide-react'
 import { Phone } from 'lucide-react'
 import { ShoppingCart } from 'lucide-react'
@@ -49,12 +49,15 @@ export default function Footer() {
                     <li className='flex gap-1 pb-3'><ContactRound />9898989898</li>
                 </ul>
             </div>
-            <div className='flex justify-center gap-6'>
+            <div className='flex justify-center gap-6 pb-9'>
                 <div className=' text-black bg-white rounded-full align-middle'><Facebook size={25}/></div>
                 <div className='text-white'><Instagram size={25}/></div>
             </div>
-            <div>
-                 
+            <div style={{color:"white"}} className='flex justify-center items-baseline  '>
+                <div className='d-flex gap-3 text-base'>
+                <Copyright fill='true' /> 2022 Logues Watches Rights Reserved <br />
+                Designed & Deployed by Mind Frame
+                </div>
             </div>
         </div>
     )

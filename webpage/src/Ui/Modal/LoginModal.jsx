@@ -1,18 +1,35 @@
+import axios from 'axios';
 import { useState } from 'react';
+import { useCookies } from 'react-cookie';
 import { Modal, ModalHeader, ModalBody, Form, FormGroup, Label, Input } from 'reactstrap';
 import { InputGroup } from "reactstrap";
+
 export default function LoginModal({ model, toggle, registerToggle }) {
   const [user, setUser] = useState({
     email: "",
     password: ""
   })
+  const [cookies,setCookie]=useCookies()
 
   const addUser = (e) => {
     e.preventDefault()
     console.log("---->", user)
-    setUser({
-      email: "",
-      password: ""
+   
+  }
+
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    axios({
+      method: "post",
+      url: `${BE_URL}/user/signin`,
+      data: user
+    }).then((res)=>{
+        setCookie("user",res.data.data)
+        setCookie("token",res.token.token)
+        setUser({
+          email: "",
+          password: ""
+        })
     })
   }
 
@@ -27,10 +44,10 @@ export default function LoginModal({ model, toggle, registerToggle }) {
         <ModalHeader toggle={toggle}>Login
         </ModalHeader>
         <ModalBody>
-          <Form onSubmit={addUser}>
+          <Form onSubmit={handleSubmit}>
             <FormGroup>
               <Label >Email</Label>
-              <Input 
+              <Input
                 placeholder='Enter your Email'
                 type="Email"
                 value={user.email}

@@ -3,15 +3,16 @@ import { NavLink } from 'react-router-dom';
 import logo from "../../Image/logo.webp";
 import { Heart, SearchCheck, ShoppingCart, User } from 'lucide-react';
 import LoginModal from '../../Modal/LoginModal';
-import RegisterModal from '../../Modal/RegisterModal'
+import RegisterModal from '../../Modal/RegisterModal';
+
 
 export default function Header() {
   const [loginModal, setLoginModal] = useState(false);
-  const [registerModal,setRegisterModal]=useState(false);
+  const [registerModal, setRegisterModal] = useState(false);
 
-  
+
   const loginToggle = () => setLoginModal(!loginModal);
-  const registerToggle = ()=>setRegisterModal(!registerModal)
+  const registerToggle = () => setRegisterModal(!registerModal)
   return (
     <>
       <div className='flex justify-center'>
@@ -40,8 +41,8 @@ export default function Header() {
           </div>
         </div>
       </div>
-      <LoginModal toggle={loginToggle} model={loginModal}  registerToggle={registerToggle}  />
-      <RegisterModal toggle={registerToggle} model={registerModal} login={loginToggle}/>
+      <LoginModal toggle={loginToggle} model={loginModal} registerToggle={registerToggle} />
+      <RegisterModal toggle={registerToggle} model={registerModal} login={loginToggle} />
     </>
   );
 }
