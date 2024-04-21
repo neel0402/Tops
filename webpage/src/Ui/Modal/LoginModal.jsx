@@ -1,6 +1,9 @@
 import axios from 'axios';
 import { useState } from 'react';
+import {BE_URL} from "../../../Config"
 import { useCookies } from 'react-cookie';
+import { useNavigate } from 'react-router-dom';
+import { toast } from 'react-toastify';
 import { Modal, ModalHeader, ModalBody, Form, FormGroup, Label, Input } from 'reactstrap';
 import { InputGroup } from "reactstrap";
 
@@ -9,13 +12,8 @@ export default function LoginModal({ model, toggle, registerToggle }) {
     email: "",
     password: ""
   })
-  const [cookies,setCookie]=useCookies()
-
-  const addUser = (e) => {
-    e.preventDefault()
-    console.log("---->", user)
-   
-  }
+  const [cookies, setCookie] = useCookies()
+  let navigate = useNavigate()
 
   const handleSubmit = (e) => {
     e.preventDefault()
@@ -23,13 +21,20 @@ export default function LoginModal({ model, toggle, registerToggle }) {
       method: "post",
       url: `${BE_URL}/user/signin`,
       data: user
-    }).then((res)=>{
-        setCookie("user",res.data.data)
-        setCookie("token",res.token.token)
-        setUser({
-          email: "",
-          password: ""
-        })
+    }).then((res) => {
+      console.log("🚀 ~ handleSubmit ~ res:", res)
+      setCookie("user", res.data.data)
+      setCookie("token", res.data.token)
+      toggle()
+      setUser({
+        email: "",
+        password: ""
+      })
+      if(res.data.data.userType === "admin") navigate("/contactus")
+      else navigate("/")
+    toast.success("login successfully..")
+    }).catch((err)=>{
+      toast.error("first you have do registration")
     })
   }
 

@@ -62,8 +62,9 @@ export default function RegisterModal({ model, toggle, login }) {
                 data: mainData
             })
                 .then((res) => {
+                    console.log("🚀 ~ .then ~ res:", res)
                     setCookie("user",res.data.data);
-                    setCookie("token",res.token.token)
+                    setCookie("token",res.data.token)
                     if(res.data.data.userType === "admin") navigate("/")
                 })
                 .catch((err) => { });
