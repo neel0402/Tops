@@ -12,12 +12,14 @@ import Slider2 from '../../Component/Sliders/Slider2/Slider2'
 import Section8 from '../../Component/Sections/Section8/Section8'
 import Section9 from '../../Component/Sections/Section9/Section9'
 import Footer from '../../Component/Footer/Footer'
+import SubHeader from '../../Component/Header/SubHeader'
 
 
 export default function Home() {
     return (
         <div>
             <Header />
+            <SubHeader/>
             <Slider1 />
             <Section1 />
             <Section2 />

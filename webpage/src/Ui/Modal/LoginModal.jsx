@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useState } from 'react';
-import {BE_URL} from "../../../Config"
+import { BE_URL } from "../../../Config"
 import { useCookies } from 'react-cookie';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
@@ -30,11 +30,11 @@ export default function LoginModal({ model, toggle, registerToggle }) {
         email: "",
         password: ""
       })
-      if(res.data.data.userType === "admin") navigate("/contactus")
+      if (res.data.data.userType === "admin") navigate("/")
       else navigate("/")
-    toast.success("login successfully..")
-    }).catch((err)=>{
-      toast.error("first you have do registration")
+      toast.success("login successfully..")
+    }).catch((err) => {
+      toast.error("You have not a account..please first do registration.")
     })
   }
 
