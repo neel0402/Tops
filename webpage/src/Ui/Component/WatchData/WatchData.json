@@ -1,0 +1,947 @@
+[
+    {
+        "title": "G 1436",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "1,695.00 – ₹1,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-4136-SLD-02-300x300.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Analog, Leather, Men, Round",
+        "color": [
+            "white",
+            "blue"
+        ],
+        "size": "37mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1457",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "1,695.00 – ₹1,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-1457-WL-37-768x768.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Leather, Men, Round, Two Hands",
+        "color": [
+            "black",
+            "blue"
+        ],
+        "size": "37mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1458",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,195.00 – ₹2,595.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/G-1458-NZ-03-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Men, Mesh, Round, Two Hands",
+        "color": [
+            "black",
+            "blue"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1459",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-1459-NL-03-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Leather, Men, Round, Three hands",
+        "color": [
+            "black",
+            "brown "
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1460",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,995.00 – ₹2,195.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-1460-WLD-10-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Date, Leather, Men, Round",
+        "color": [
+            "black",
+            "brown "
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1461",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹₹1,695.00 – ₹1,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-1461-QL-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Leather, Men, Round, Two Hands",
+        "color": [
+            "brown ",
+            "green"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1465",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,295.00 – ₹2,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-1465-YZ-10.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Date, Men, Mesh, Round",
+        "color": [
+            "brown ",
+            "green"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1476",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,095.00 – ₹2,595.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-1476-BZ-022.jpg ",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Analog, Men, Mesh, Round",
+        "color": [
+            "Gold To Tone ",
+            "Rose To Tone"
+        ],
+        "size": "40mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1480",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,195.00 – ₹2,295.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-1480-SL-37.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "  Analog, Leather, Men, Round",
+        "color": [
+            "Black",
+            "Rose",
+            "Steel"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1497",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,395.00 – ₹1,795.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-1497-CL-05.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Date, Leather, Men, Round",
+        "color": [
+            "Coffee",
+            "Rose"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1956",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,295.00 – ₹3,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-1956-WQM-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Day Date, Men, Metal, Round",
+        "color": [
+            "Blue",
+            "Rose"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1959",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,295.00 – ₹3,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-E-1959-QL-81-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Leather, Men, Multifunction, Round ",
+        "color": [
+            "Black",
+            "Brown"
+        ],
+        "size": "40mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1959",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,295.00 – ₹3,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-E-1959-QL-81-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Leather, Men, Multifunction, Round ",
+        "color": [
+            "Black",
+            "Brown"
+        ],
+        "size": "40mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1961",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,795.00 – ₹2,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-1961-NM-03-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Men, Metal, Multifunction, Round",
+        "color": [
+            "Black",
+            "Rosegold"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1962",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,995.00 – ₹3,295.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-1962-QMD-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Men, Metal, Multifunction, Round",
+        "color": [
+            "Black",
+            "Gold"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1964",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,995.00 – ₹3,295.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/G-1964-QL-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Men, Metal, Multifunction, Round",
+        "color": [
+            "Blue",
+            "Green"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1966",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,395.00 – ₹3,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-1966-QM-27-scaled.jpg ",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Men, Metal, Multifunction, Round",
+        "color": [
+            "Gold To Tone ",
+            "Rose To Tone"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1969",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-1969-WNC-03-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Ceramic, Date, Men, Round",
+        "color": [
+            "Black",
+            "Blue"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1971",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,295.00 – ₹3,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/G-1971-QM-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Chronograph, Men, Metal & Leather, Round",
+        "color": [
+            "Black",
+            "Blue"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1972",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,395.00 – ₹3,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/G-1971-QM-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Leather, Men, Multifunction, Round",
+        "color": [
+            "Brown",
+            "Green"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1972",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹3,395.00 – ₹3,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/G-1972-QL-89-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Leather, Men, Multifunction, Round",
+        "color": [
+            "Brown",
+            "Green"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 1974",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹4,595.00 – ₹4,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/01/G-1974-BWM-02-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Men, Metal, Multifunction, Round",
+        "color": [
+            "Rose",
+            "Silver"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 2015",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹995.00 – ₹1,345.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-2015-SL-033.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "  Analog, Leather, Men, Round",
+        "color": [
+            "Coffee",
+            "Steel"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 2067",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1595.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-2067-SMD-07-768x768.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "Day Date, Men, Metal, Round",
+        "color": [
+            "Silver"
+        ],
+        "size": "44mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4127",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,395.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-4127-WMD-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": " Date, Men, Metal, Round",
+        "color": [
+            "Coffee",
+            "Steel"
+        ],
+        "size": "40mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4130",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,395.00 – ₹1,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-4130-SL-03.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "  Date, Leather, Men, Round",
+        "color": [
+            "Gold",
+            "Steel"
+        ],
+        "size": "38mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4133",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-4133-YM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "  Analog, Leather, Men, Round",
+        "color": [
+            "Gold"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4138",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,995.00 – ₹2,295.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/02/G-4138-QM-27-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "   Men, Metal, Round, Three hands",
+        "color": [
+            "Black",
+            "Rose To Tone"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4140",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹1,995.00 – ₹2,395.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-4140-SMD-02-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "  Day & date, Men, Metal, Round",
+        "color": [
+            "Black",
+            "Gold"
+        ],
+        "size": "42mm",
+        "availableStock": 60
+    },
+    {
+        "title": "G 4141",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "male",
+        "price": "₹2,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/G-4141-QLD-27-scaled.jpg ",
+        "discountPercentage": 15,
+        "mainCategory": "Men's Watches",
+        "category": "   Day & date, Leather, Men, Round",
+        "color": [
+            "Black",
+            "Blue"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    
+
+    {
+        "title": "L 1711",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹3,695.00 – ₹3,995.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-1711-SM-10-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Analog, Metal, Round, Women",
+        "color": [
+            "Rose To Tone",
+            "Silver"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 3520",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,545.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/G-3520-YM-13.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Gold To Tone",
+            "Gold"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5054",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹795.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-5054-SL-25.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": "  Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "white"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5074",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-5074-SL-07.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": "   Date, Leather, Round, Women",
+        "color": [
+            "Red"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5075",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-5075-SL-02.png.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": "   Date, Leather, Round, Women",
+        "color": [
+            "Red"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5080",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-5080-WM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Red"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5086",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,495.00 – ₹1,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-5086-WL-09.jpeg.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Rose"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 5094",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,495.00 – ₹1,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-5094-WL-09-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Rose"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6015",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6015-NM-03.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6033",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,795.00 – ₹2,045.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6033-SM-02.png.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Gold To Tone ",
+            "Steel"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6037",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,495.00 – ₹2,595.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6037-YM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Gold To Tone ",
+            "Gold"  
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6071",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6071-BM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Gold To Tone ",
+            "Gold"  
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6097",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,595.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6097-SM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Steel"  
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6117",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6117-CM-05.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Steel"  
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6129",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6144",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,895.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6144-NM-03-300x300.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6147",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,595.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6147-WM-02.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Rose",
+            "Rose To Tone"
+        ],
+        "size": "34mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6149",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,395.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6150-WMD-06.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    },
+    {
+        "title": "L 6143",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,995.00 – ₹2,195.00 ",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black",
+            "Coffee"
+        ],
+        "size": "32mm",
+        "availableStock": 60 
+    }
+]
