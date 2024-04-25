@@ -506,7 +506,9 @@
         "size": "34mm",
         "availableStock": 60
     },
-    
+
+
+
 
     {
         "title": "L 1711",
@@ -523,7 +525,7 @@
             "Silver"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 3520",
@@ -540,7 +542,7 @@
             "Gold"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5054",
@@ -557,7 +559,7 @@
             "white"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5074",
@@ -573,7 +575,7 @@
             "Red"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5075",
@@ -589,7 +591,7 @@
             "Red"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5080",
@@ -605,7 +607,7 @@
             "Red"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5086",
@@ -622,7 +624,7 @@
             "Rose"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 5094",
@@ -639,7 +641,7 @@
             "Rose"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6015",
@@ -655,7 +657,7 @@
             "Black"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6033",
@@ -672,7 +674,7 @@
             "Steel"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6037",
@@ -686,10 +688,10 @@
         "category": " Date, Metal, Round, Women",
         "color": [
             "Gold To Tone ",
-            "Gold"  
+            "Gold"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6071",
@@ -703,10 +705,10 @@
         "category": " Date, Metal, Round, Women",
         "color": [
             "Gold To Tone ",
-            "Gold"  
+            "Gold"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6097",
@@ -720,10 +722,10 @@
         "category": " Date, Metal, Round, Women",
         "color": [
             "Black",
-            "Steel"  
+            "Steel"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6117",
@@ -737,10 +739,10 @@
         "category": " Date, Metal, Round, Women",
         "color": [
             "Black",
-            "Steel"  
+            "Steel"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6129",
@@ -756,7 +758,7 @@
             "Black"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6144",
@@ -772,7 +774,7 @@
             "Black"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6147",
@@ -789,7 +791,7 @@
             "Rose To Tone"
         ],
         "size": "34mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
         "title": "L 6149",
@@ -806,142 +808,228 @@
             "Coffee"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
     {
-        "title": "L 6143",
+        "title": "L 6150",
         "description": "Japanese",
         "brand": "Logues",
         "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "price": "₹2,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6150-WMD-06.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Rosegold",
+            "Silver"
+        ],
+        "size": "32mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6154",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,495.00 – ₹2,795.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6154-SM-04.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Rosegold",
+            "Steel"
+        ],
+        "size": "32mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6156",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-6156-QMD-27-768x768.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Blue",
+            "Rose To Tone"
+        ],
+        "size": "34mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6161",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,195.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6161-WM-02-1.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Blue",
+            "Rose To Tone"
+        ],
+        "size": "30mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6163",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,195.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6163-WZ-79-768x768.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Coffee",
+            "Rose"
+        ],
+        "size": "30mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6165",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹2,495.00 – ₹2,795.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-6165-BWM-27-768x768.jpg",
         "discountPercentage": 15,
         "mainCategory": "Women's Watches",
         "category": " Date, Metal, Round, Women",
         "color": [
             "Black",
-            "Coffee"
+            "Rose"
         ],
-        "size": "32mm",
-        "availableStock": 60 
+        "size": "30mm",
+        "availableStock": 60
     },
     {
-        "title": "L 6143",
+        "title": "L 6167",
         "description": "Japanese",
         "brand": "Logues",
         "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "price": "₹2,495.00 – ₹2,695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-6167-WMD-02-768x768.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Gold",
+            "Brown"
+        ],
+        "size": "30mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L 6168",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹3,995.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-6168-WAC-01-scaled.jpg",
         "discountPercentage": 15,
         "mainCategory": "Women's Watches",
         "category": " Date, Metal, Round, Women",
         "color": [
             "Black",
-            "Coffee"
+            "Brown"
         ],
-        "size": "32mm",
-        "availableStock": 60 
+        "size": "30mm",
+        "availableStock": 60
     },
     {
-        "title": "L 6143",
+        "title": "L 6173",
         "description": "Japanese",
         "brand": "Logues",
         "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "price": "₹1,995.00 – ₹2,195.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/03/L-6173-BM-03-768x768.jpg",
         "discountPercentage": 15,
         "mainCategory": "Women's Watches",
         "category": " Date, Metal, Round, Women",
         "color": [
-            "Black",
-            "Coffee"
+            "Gold To Tone ",
+            "Gold"
         ],
-        "size": "32mm",
-        "availableStock": 60 
+        "size": "34mm",
+        "availableStock": 60
     },
     {
-        "title": "L 6143",
+        "title": "L 7930",
         "description": "Japanese",
         "brand": "Logues",
         "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "price": "₹2,695.00 – ₹2,795.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/12/L-7930-WM-02-1-768x768.jpg",
         "discountPercentage": 15,
         "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
+        "category": "  Metal, Round, Three hands, Women",
         "color": [
-            "Black",
-            "Coffee"
+            "Gold",
+            "Silver"
         ],
-        "size": "32mm",
-        "availableStock": 60 
+        "size": "30mm",
+        "availableStock": 60
     },
     {
-        "title": "L 6143",
+        "title": "L E-676",
         "description": "Japanese",
         "brand": "Logues",
         "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "price": "₹895.00 – ₹1,095.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-E-676-SL-71-768x768.jpg",
         "discountPercentage": 15,
         "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
+        "category": " Analog, Leather, Round, Women",
         "color": [
             "Black",
-            "Coffee"
+            "Steel"
         ],
         "size": "32mm",
-        "availableStock": 60 
+        "availableStock": 60
     },
+
+
+
+
+
     {
-        "title": "L 6143",
+        "title": "T K 1019",
         "description": "Japanese",
         "brand": "Logues",
-        "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "gender": "kids",
+        "price": "₹495.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2022/11/TK-1019-07-2-768x768.jpg",
         "discountPercentage": 15,
-        "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
+        "mainCategory": "Kid's Watches",
+        "category": " Digital, Kids",
         "color": [
             "Black",
-            "Coffee"
-        ],
-        "size": "32mm",
-        "availableStock": 60 
-    },
+            "Blue"
+        ]
+    },  
     {
-        "title": "L 6143",
+        "title": "T K 1039",
         "description": "Japanese",
         "brand": "Logues",
-        "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
+        "gender": "kids",
+        "price": "₹695.00",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2022/11/TK-1039-04-2-768x768.jpg",
         "discountPercentage": 15,
-        "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
+        "mainCategory": "Kid's Watches",
+        "category": "Kids",
         "color": [
-            "Black",
-            "Coffee"
-        ],
-        "size": "32mm",
-        "availableStock": 60 
-    },
-    {
-        "title": "L 6143",
-        "description": "Japanese",
-        "brand": "Logues",
-        "gender": "female",
-        "price": "₹1,995.00 – ₹2,195.00 ",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
-        "discountPercentage": 15,
-        "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
-        "color": [
-            "Black",
-            "Coffee"
-        ],
-        "size": "32mm",
-        "availableStock": 60 
-    }
+            "Baby Pink",
+            "Blue"
+        ]
+    } 
 ]
