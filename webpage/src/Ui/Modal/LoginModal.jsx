@@ -80,6 +80,7 @@ export default function LoginModal({ model, toggle, registerToggle }) {
               Don't have an account? <span className="font-semibold text-red-500">Create account...!</span>
             </p>
             <br />
+            <p>Forgot password? </p> 
             <button className="border-2 border-black rounded-md hover:bg-black hover:text-white p-1 w-full">
               Login
             </button>
