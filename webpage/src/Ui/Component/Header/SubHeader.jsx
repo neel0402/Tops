@@ -16,8 +16,9 @@ export default function SubHeader() {
                     </div>
                     :
                     <div className='d-flex gap-2'>
-                        <NavLink className="text-decoration-none" to={"/user-Men's Watches"}>Men</NavLink>
-                        <NavLink className="text-decoration-none" to={"/user-Women's Watches"}>User</NavLink>
+                        <NavLink className="text-decoration-none" to={"/user-men-watches"}>Men</NavLink>
+                        <NavLink className="text-decoration-none" to={"/user-Women's Watches"}>Women</NavLink>
+                        <NavLink className="text-decoration-none" to={"/user-Kid's Watches"}>kids</NavLink>
                     </div>
             }  
         </>

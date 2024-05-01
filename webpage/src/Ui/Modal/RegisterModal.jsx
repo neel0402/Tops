@@ -76,7 +76,6 @@ export default function RegisterModal({ model, toggle, login }) {
     };
 
     function singIn() {
-        console.log("=========sign in=======>>>");
         login()
         toggle();
     }
