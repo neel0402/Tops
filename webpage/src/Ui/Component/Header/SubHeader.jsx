@@ -15,12 +15,12 @@ export default function SubHeader() {
                         <NavLink className="text-decoration-none" to={"/admin-user"}>User</NavLink>
                     </div>
                     :
-                    <div className='d-flex gap-2'>
-                        <NavLink className="text-decoration-none" to={"/user-men-watches"}>Men</NavLink>
-                        <NavLink className="text-decoration-none" to={"/user-Women's Watches"}>Women</NavLink>
-                        <NavLink className="text-decoration-none" to={"/user-Kid's Watches"}>kids</NavLink>
+                    <div className='d-flex gap-5 pb-5 justify-center text-lg'>
+                        <NavLink className="text-decoration-none" to={"product/Men's Watches"}>Men</NavLink>
+                        <NavLink className="text-decoration-none" to={"product/Women's Watches"}>Women</NavLink>
+                        <NavLink className="text-decoration-none" to={"product/Kid's Watches"}>kids</NavLink>
                     </div>
-            }  
+            }
         </>
     )
 }

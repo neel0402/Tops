@@ -11,11 +11,16 @@ import User from '../Ui/Pages/admin/User/User'
 import Singleproduct from '../Ui/Pages/user/Product/Singleproduct'
 import UserProduct from '../Ui/Pages/user/Product/UserProduct'
 import Men from '../Ui/Pages/admin/User/products/Men'
+import Header from '../Ui/Component/Header/Header'
+import SubHeader from '../Ui/Component/Header/SubHeader'
+import Footer from '../Ui/Component/Footer/Footer'
 
 export default function Router() {
     return (
         <div>
             <BrowserRouter>
+                <Header />
+                <SubHeader />
                 <Routes>
                     {/* common */}
                     <Route path='/' element={<Home />} />
@@ -32,9 +37,10 @@ export default function Router() {
                     {/* User */}
                     <Route path='/user-singleproduct' element={<Singleproduct />} />
                     <Route path='/user-userproduct' element={<UserProduct />} />
-                    <Route path='/user-men-watches' element={<Men />} />
+                    <Route path='/product/:type' element={<Men />} />
 
                 </Routes>
+                <Footer />
             </BrowserRouter>
         </div>
     )

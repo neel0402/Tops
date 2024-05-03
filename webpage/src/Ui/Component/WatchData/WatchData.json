@@ -745,22 +745,6 @@
         "availableStock": 60
     },
     {
-        "title": "L 6129",
-        "description": "Japanese",
-        "brand": "Logues",
-        "gender": "female",
-        "price": "₹1,345",
-        "thumbnail": "https://logueswatches.com/wp-content/uploads/2023/01/L-6129-NM-03-300x300.jpgg",
-        "discountPercentage": 15,
-        "mainCategory": "Women's Watches",
-        "category": " Date, Metal, Round, Women",
-        "color": [
-            "Black"
-        ],
-        "size": "32mm",
-        "availableStock": 60
-    },
-    {
         "title": "L 6144",
         "description": "Japanese",
         "brand": "Logues",
@@ -993,6 +977,22 @@
         "color": [
             "Black",
             "Steel"
+        ],
+        "size": "32mm",
+        "availableStock": 60
+    },
+    {
+        "title": "L E 681",
+        "description": "Japanese",
+        "brand": "Logues",
+        "gender": "female",
+        "price": "₹1,345",
+        "thumbnail": "https://logueswatches.com/wp-content/uploads/2024/01/L-E-681-WL-20-scaled.jpg",
+        "discountPercentage": 15,
+        "mainCategory": "Women's Watches",
+        "category": " Date, Metal, Round, Women",
+        "color": [
+            "Black"
         ],
         "size": "32mm",
         "availableStock": 60

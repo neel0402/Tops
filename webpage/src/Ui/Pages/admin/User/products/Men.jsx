@@ -6,6 +6,7 @@ import axios from 'axios'
 export default function Men() {
 
     let [cardData, setCardData] = useState([])
+    let [count, setCount] = useState([])
     console.log("🚀 ~ Men ~ cardData:", cardData)
 
 
@@ -16,21 +17,25 @@ export default function Men() {
         }).then((res) => {
             console.log("🚀 ~ Men ~ res:", res)
             setCardData(res?.data?.data)
+            setCount(res?.data?.count)
         }).catch((err) => {
             console.log("🚀 ~ Men ~ err:", err)
 
         })
     }, [])
 
-    
-    return (
-        <div className='flex flex-wrap justify-between'>
-            {
-                cardData?.map((e, i) => {
-                    return <Card1 key={i} data={e}/>
 
-                })
-            }
+    return (
+        <div className='ps-32 pt-24 pr-32'>
+            <h4>Count : {count}</h4>
+            <div className='flex flex-wrap justify-between'>
+                {
+                    cardData?.map((e, i) => {
+                        return <Card1 key={i} data={e} />
+
+                    })
+                }
+            </div>
         </div>
     )
 }

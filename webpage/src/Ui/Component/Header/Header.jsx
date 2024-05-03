@@ -19,10 +19,10 @@ export default function Header() {
         <div className='w-75'>
           <div className='flex justify-between items-center my-8'>
             <div className='flex items-center font-semibold text-base gap-14'>
-              <NavLink className="text-decoration-none" to={"/"}> Home</NavLink>
-              <NavLink className="text-decoration-none" to={"/about"}>AboutUs</NavLink>
-              <NavLink className="text-decoration-none" to={"/contactus"}>ContactUs</NavLink>
-              <NavLink className="text-decoration-none" to={"/shop"}>Shop</NavLink>
+              <NavLink className="text-decoration-none hover:text-sky-600 hover:scale-110 duration-300" to={"/"}> Home</NavLink>
+              <NavLink className="text-decoration-none hover:text-sky-600  hover:scale-110 duration-300" to={"/about"}>AboutUs</NavLink>
+              <NavLink className="text-decoration-none hover:text-sky-600  hover:scale-110 duration-300" to={"/contactus"}>ContactUs</NavLink>
+              <NavLink className="text-decoration-none hover:text-sky-600  hover:scale-110 duration-300" to={"/shop"}>Shop</NavLink>
             </div>
             <div className='flex items-center'>
               <img src={logo} alt="Logo" className='h-14' />
