@@ -14,6 +14,9 @@ import Men from '../Ui/Pages/admin/User/products/Men'
 import Header from '../Ui/Component/Header/Header'
 import SubHeader from '../Ui/Component/Header/SubHeader'
 import Footer from '../Ui/Component/Footer/Footer'
+import Card1 from '../Ui/Component/Cards/Card1/Card1'
+import ProductPreview from '../Ui/Component/Review/ProductPreview'
+import Profile from '../Ui/Pages/Common/Profile'
 
 export default function Router() {
     return (
@@ -27,6 +30,8 @@ export default function Router() {
                     <Route path='/about' element={<AboutUs />} />
                     <Route path='/shop' element={<Shop />} />
                     <Route path='/contactus' element={<ContactUs />} />
+                    <Route path='/profile' element={<Profile />} />
+
 
                     {/* admin */}
                     <Route path='/admin-dashboard' element={<Dashboard />} />
@@ -37,6 +42,8 @@ export default function Router() {
                     {/* User */}
                     <Route path='/user-singleproduct' element={<Singleproduct />} />
                     <Route path='/user-userproduct' element={<UserProduct />} />
+                    <Route path='/user-card' element={<Card1 />} />
+                    <Route path='/user-card/:id' element={<ProductPreview />} />
                     <Route path='/product/:type' element={<Men />} />
 
                 </Routes>

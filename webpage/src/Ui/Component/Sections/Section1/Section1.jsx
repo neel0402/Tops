@@ -2,7 +2,6 @@ import React from 'react'
 import img1 from "../../Sections/Images/img1.webp"
 import img2 from "../../Sections/Images/img2.webp"
 import img3 from "../../Sections/Images/img3.webp"
-import Card1 from '../../Cards/Card1/Card1'
 import { useNavigate } from 'react-router-dom'
 
 export default function Section1() {

@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+import slider21 from "../images/slider21.webp"
+import slider22 from "../images/slider22.webp"
+
 import {
     Carousel,
     CarouselItem,
@@ -9,18 +12,17 @@ import {
 
 const items = [
     {
-        id: 1,
+        src: slider21,
+        altText:'hye1',
+        key: 1,
     },
     {
-        id: 2,
-    },
-    {
-        id: 3,
-
+        src: slider22,
+        key: 2,
     },
 ];
 
-function Example(props) {
+export default function Slider1(args) {
     const [activeIndex, setActiveIndex] = useState(0);
     const [animating, setAnimating] = useState(false);
 
@@ -44,14 +46,12 @@ function Example(props) {
     const slides = items.map((item) => {
         return (
             <CarouselItem
-                className="custom-tag"
-                tag="div"
-                key={item.id}
                 onExiting={() => setAnimating(true)}
                 onExited={() => setAnimating(false)}
+                key={item.src}
             >
+                <img src={item.src} className='w- h-52' alt={item.altText} />
                 <CarouselCaption
-                    className="text-danger"
                     captionText={item.caption}
                     captionHeader={item.caption}
                 />
@@ -60,34 +60,30 @@ function Example(props) {
     });
 
     return (
-        <div>
-            <style>
-                {`.custom-tag {
-              max-width: 100%;
-              height: 500px;
-              background: black;
-            }`}
-            </style>
-            <Carousel activeIndex={activeIndex} next={next} previous={previous}>
-                <CarouselIndicators
-                    items={items}
-                    activeIndex={activeIndex}
-                    onClickHandler={goToIndex}
-                />
+        <Carousel
+            activeIndex={activeIndex}
+            next={next}
+            previous={previous}
+            {...args}
+        >
+            <CarouselIndicators
+                items={items}
+                activeIndex={activeIndex}
+                onClickHandler={goToIndex}
+            />
+
                 {slides}
-                <CarouselControl
-                    direction="prev"
-                    directionText="Previous"
-                    onClickHandler={previous}
-                />
-                <CarouselControl
-                    direction="next"
-                    directionText="Next"
-                    onClickHandler={next}
-                />
-            </Carousel>
-        </div>
+            <CarouselControl
+                direction="prev"
+                directionText="Previous"
+                onClickHandler={previous}
+            />
+            <CarouselControl
+                direction="next"
+                directionText="Next"
+                onClickHandler={next}
+            />
+        </Carousel>
     );
 }
 
-export default Example;
