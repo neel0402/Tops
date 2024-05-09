@@ -3,6 +3,7 @@ import { Card, CardBody, CardText, CardTitle } from 'reactstrap'
 import { useNavigate } from 'react-router-dom'
 
 export default function Card1({ data }) {
+  console.log("🚀 ~ Card1 ~ ======>>>:", data)
   let navigate = useNavigate()
   let redirect = (id) => {
     navigate(`/user-card/${id}`)
@@ -15,7 +16,7 @@ export default function Card1({ data }) {
         paddingBottom: "10px",
       }}
         onClick={() => redirect(data._id)}>
-        <Card
+        <Card role='button'
           style={{
             width: '18rem',
             gap: "10px",

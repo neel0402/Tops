@@ -8,7 +8,7 @@ export default function SubHeader() {
         <>
             {
                 user?.userType === "admin" ?
-                    <div className='d-flex gap-2'>
+                    <div className='d-flex gap-20 justify-center font-semibold pb-5 pl-10'>
                         <NavLink className="text-decoration-none" to={"/admin-dashboard"}>Dashboard</NavLink>
                         <NavLink className="text-decoration-none" to={"/admin-order"}>Order</NavLink>
                         <NavLink className="text-decoration-none" to={"/admin-product"}>Product</NavLink>
