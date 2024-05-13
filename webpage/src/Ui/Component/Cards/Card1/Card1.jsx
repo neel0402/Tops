@@ -35,7 +35,7 @@ export default function Card1({ data }) {
             <CardText className='text-base text-red-600 font-bold text-center'>
               {data?.price}
             </CardText>
-          </CardBody>
+          </CardBody> 
         </Card>
       </div>
     </>

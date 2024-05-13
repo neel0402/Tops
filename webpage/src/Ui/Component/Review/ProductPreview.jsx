@@ -1,11 +1,13 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import { useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 import { toast } from 'react-toastify'
 import { BE_URL } from '../../../../Config'
 
 export default function ProductPreview() {
     let [singleproduct, setSingleProduct] = useState([])
+    let navigate = useNavigate()
+
     console.log("🚀 ~ ProductPreview ~ singleproduct:", singleproduct)
     let urlData = useParams()
     useEffect(() => {
@@ -23,7 +25,7 @@ export default function ProductPreview() {
 
         <div>
             {
-                singleproduct.map((e, i) => {
+                singleproduct.map((e, i) => {e
                     return (
                         <div className='pl-96 d-flex'
                             style={{
@@ -42,6 +44,7 @@ export default function ProductPreview() {
                                 <br />
                                 <div>
                                     <button className='bg-red-500 text-white h-10 w-40'
+                                    onClick={()=>navigate('/cart')}
                                     role='button' 
                                     style={{
                                         border: 'none',

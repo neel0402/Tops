@@ -105,7 +105,7 @@ export default function RegisterModal({ model, toggle, login }) {
                 <ToastContainer />
                 <Modal isOpen={model} toggle={toggle} >
                     <ModalHeader toggle={toggle}>
-                        <b>Registeration Form</b>
+                        <b>Registration Form</b>
                     </ModalHeader>
                     <ModalBody>
                         <Form onSubmit={handleSubmit}>
@@ -229,21 +229,6 @@ export default function RegisterModal({ model, toggle, login }) {
                                     value={adress.state}
                                     onChange={(e) =>
                                         setAdress({ ...adress, state: e.target.value })
-                                    }
-                                >
-                                </Input>
-                            </FormGroup>
-                            <FormGroup>
-                                <Label for="pincode">Pincode</Label>
-                                <Input
-                                    type="text"
-                                    name="pincode"
-                                    placeholder='Enter Your pincode.'
-                                    className="shadow-none"
-                                    id="pincode"
-                                    value={adress.pinCode}
-                                    onChange={(e) =>
-                                        setAdress({ ...adress, pinCode: e.target.value })
                                     }
                                 >
                                 </Input>

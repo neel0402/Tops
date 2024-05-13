@@ -50,7 +50,7 @@ export default function ProfilePage() {
                   <ul >
                     <li className='py-3' style={{ display: "flex", gap: "20px", justifyContent: "center" }}>
                       <h5>Name :  </h5>
-                      <span className='font-normal'>  {cookies?.user?.name}</span>
+                      <span className='font-normal'>{cookies?.user?.name}</span>
                     </li>
                     <li className='*:py-3'>
                       <h5>Email : <span className='font-normal'>  {cookies?.user?.email}</span> </h5>

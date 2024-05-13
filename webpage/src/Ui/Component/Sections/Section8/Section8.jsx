@@ -10,7 +10,7 @@ export default function Section8() {
             </div>
             <br />
             <div className='flex flex-col items-center gap-2 justify-center bg-[#3f729b] h-10 w-48 text-white m-auto rounded-lg'>
-                <a href="https://www.instagram.com/logueswatches/">
+                <a href="https://www.instagram.com/logueswatches/" target='_blank'>
                     <button className='flex gap-2 items-center '><Instagram /> Follow On Instagram</button>
                 </a>
             </div>

@@ -17,6 +17,7 @@ import Footer from '../Ui/Component/Footer/Footer'
 import Card1 from '../Ui/Component/Cards/Card1/Card1'
 import ProductPreview from '../Ui/Component/Review/ProductPreview'
 import Profile from '../Ui/Pages/Common/Profile'
+import Cart from '../Ui/Pages/user/Cart'
 
 export default function Router() {
     return (
@@ -31,6 +32,7 @@ export default function Router() {
                     <Route path='/shop' element={<Shop />} />
                     <Route path='/contactus' element={<ContactUs />} />
                     <Route path='/profile' element={<Profile />} />
+                    <Route path='/cart' element={<Cart />} />
 
 
                     {/* admin */}

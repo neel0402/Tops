@@ -27,7 +27,7 @@ export default function Men() {
 
     return (
         <div className='ps-32 pt-24 pr-32'>
-            <h4>Count : {count}</h4>
+            <h4 className='text-2xl font-bold'>Count : {count}</h4>
             <div className='flex flex-wrap justify-between'>
                 {
                     cardData?.map((e, i) => {

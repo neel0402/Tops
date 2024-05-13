@@ -9,10 +9,10 @@ export default function SubHeader() {
             {
                 user?.userType === "admin" ?
                     <div className='d-flex gap-20 justify-center font-semibold pb-5 pl-10'>
-                        <NavLink className="text-decoration-none" to={"/admin-dashboard"}>Dashboard</NavLink>
-                        <NavLink className="text-decoration-none" to={"/admin-order"}>Order</NavLink>
-                        <NavLink className="text-decoration-none" to={"/admin-product"}>Product</NavLink>
-                        <NavLink className="text-decoration-none" to={"/admin-user"}>User</NavLink>
+                        <NavLink className="text-decoration-none  hover:text-sky-600 hover:scale-110 duration-300" to={"/admin-dashboard"}>Dashboard</NavLink>
+                        <NavLink className="text-decoration-none hover:text-sky-600 hover:scale-110 duration-300" to={"/admin-order"}>Order</NavLink>
+                        <NavLink className="text-decoration-none hover:text-sky-600 hover:scale-110 duration-300" to={"/admin-product"}>Product</NavLink>
+                        <NavLink className="text-decoration-none hover:text-sky-600 hover:scale-110 duration-300" to={"/admin-user"}>User</NavLink>
                     </div>
                     :
                     <div className='d-flex gap-5 pb-5 justify-center text-lg'>
